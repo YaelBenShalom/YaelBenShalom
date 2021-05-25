@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 
 - 👩🏻‍🎓  I’m a MS in Robotics student at Northwestern University
 
