@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=YaelBenShalom.visitor-badge)](https://github.com/YaelBenShalom) -->
+<!-- [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YaelBenShalom?tab=followers) -->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/YaelBenShalom)](https://github.com/YaelBenShalom)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://yaelbenshalom.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yael.bshalom@gmail.com)](mailto:yael.bshalom@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yael-ben-shalom-21521410a/)](https://www.linkedin.com/in/yael-ben-shalom-21521410a/)
+
+
 - 👩🏻‍🎓  I’m a MS in Robotics student at Northwestern University
 
 - 🔭  I’m especially interested in autonomous robotics, machine learning, control, and SLAM
