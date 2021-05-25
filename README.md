@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 🌐  Learn more about my work and projects at <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a>
 
 <br> 
-<img src="https://github-readme-stats.vercel.app/api?username=YaelBenShalom&count_private=true&show_icons=true&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api?username=YaelBenShalom&count_private=true&show_icons=true&theme=algolia">
