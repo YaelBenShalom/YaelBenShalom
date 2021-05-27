@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yael-ben-shalom-21521410a/)](https://www.linkedin.com/in/yael-ben-shalom-21521410a/)
 
 
-- 👩🏻‍🎓  I’m a MS in Robotics student at Northwestern University
+- 👩🏻‍🎓  I’m an MS in Robotics student at Northwestern University
 
 - 🔭  I’m especially interested in autonomous robotics, machine learning, control, and SLAM
 
 - 📩  Email me at yael.bshalom@gmail.com
 
-- 🌐  Learn more about my work and projects at <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a>
+- 🌐  Learn more about my work and projects in <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a>
 
 <br> 
 
