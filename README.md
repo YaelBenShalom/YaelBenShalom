@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭  I’m especially interested in autonomous robotics, machine learning, control, and SLAM
 
-- 📩  Email me at yael.bshalom@gmail.com
+- 📩  Contact me at yael.bshalom@gmail.com
 
 - 🌐  Learn more about my work and projects in <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a>
 
