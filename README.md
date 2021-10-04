@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍🎓  I’m an MS in Robotics student at Northwestern University
 
-- 🔭  I’m especially interested in autonomous robotics, machine learning, control, and SLAM
+- 🔭  I’m especially interested in autonomous robotics, ML, planning, controls, and SLAM
 
 - 📩  Contact me at yael.bshalom@gmail.com
 
