@@ -3,7 +3,7 @@
 ### Hi there!  <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---------------------------------------------------------------
 
-My name is Yael Ben Shalom, and I'm a robotics software & mechanical engineer. I'm currently pursuing a master's in Robotics at Northwestern University. My main focus is autonomous robotics, ML, planning, controls, and SLAM.
+My name is Yael Ben Shalom, and I'm a robotics software & mechanical engineer. I'm currently pursuing a master's in robotics at Northwestern University. My main focus is autonomous robotics, ML, planning, controls, and SLAM.
 <br>
 Learn more about my work and projects in <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a>.
 
