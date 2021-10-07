@@ -1,3 +1,5 @@
+[![Header](https://github.com/YaelBenShalom/GenerativeMethods/blob/master/images/header.jpg)](https://yaelbenshalom.github.io/)
+
 ### Hi there! I'm Yael Ben Shalom 👋
 
 <!--
