@@ -1,4 +1,4 @@
-### Hi there! I'm Yael Ben Shalom 👋
+### Hi there! I'm Yael Ben Shalom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **YaelBenShalom/YaelBenShalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=YaelBenShalom.visitor-badge)](https://github.com/YaelBenShalom) -->
-<!-- [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YaelBenShalom?tab=followers) -->
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YaelBenShalom?tab=followers)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/YaelBenShalom)](https://github.com/YaelBenShalom)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://yaelbenshalom.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yael.bshalom@gmail.com)](mailto:yael.bshalom@gmail.com)
