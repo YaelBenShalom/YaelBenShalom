@@ -7,8 +7,10 @@
 <h1 align="center">Hi there!  <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-My name is Yael Ben Shalom, and I'm a robotics software & mechanical engineer. I'm currently pursuing a master's in robotics at Northwestern University. My main focus is autonomous robotics, planning, controls, and SLAM.
-<br><br>
+My name is Yael Ben Shalom, and I'm a robotics software & mechanical engineer.<br>
+I'm currently pursuing a master's in robotics at Northwestern University.<br>
+My main focus is autonomous robotics, planning, controls, and SLAM.
+<br><br><br>
 Learn more about my work and projects in <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a>
 </p>
 
