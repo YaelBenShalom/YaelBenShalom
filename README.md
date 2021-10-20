@@ -31,6 +31,10 @@
   </a>
 </p>
 
+<!-- <p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=YaelBenShalom&theme=algolia&column=4&margin-w=15&margin-h=15">
+</p> -->
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaelBenShalom&count_private=true&show_icons=true&theme=github_dark">
 <!-- <br><br> -->
