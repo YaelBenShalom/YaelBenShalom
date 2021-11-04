@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there!  <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi There!  <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   My name is Yael Ben Shalom, and I'm a robotics software & mechanical engineer.<br>
