@@ -18,7 +18,8 @@
 
 <p align="center">
   <a href="https://yaelbenshalom.github.io/" target="_blank">
-    <img align="center" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
+<!--     <img align="center" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"> -->
+    <img align="center" src="https://img.shields.io/badge/Website-green?style=flat-square&logo=Webflow&logoColor=white&link=https://yaelbenshalom.github.io/">
   </a>
   <a href="mailto:yael.bshalom@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yael.bshalom@gmail.com">
