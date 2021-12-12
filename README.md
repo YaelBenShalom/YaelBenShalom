@@ -8,7 +8,7 @@
 
 <p align="center">
   My name is Yael Ben Shalom, and I'm a robotics software & mechanical engineer.<br>
-  I'm a recent graduate of the master's in Robotics at Northwestern University.<br>
+  I'm a recent graduate of the master's in Robotics program at Northwestern University.<br>
   My main focus is robotics manipulation, autonomous mobile robots, controls, planning, perception, and SLAM.
   <br><br><br>
   Learn more about my work and projects in <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a>
