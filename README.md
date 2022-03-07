@@ -4,20 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi There!
-  <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
-
-<p align="center">
-  I'm Yael, and I'm a robotics software & mechanical engineer.<br>
-  I recently graduated with a masters in robotics from Northwestern University.<br>
-  My main focuses are autonomous mobile robots, robotics manipulation, controls, planning, perception, and SLAM.
-  <br><br><br>
-  Please check <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a> for more information about my projects.
-</p>
-
-<br>
-
 <p align="center">
   <a href="https://yaelbenshalom.github.io/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Website-green?style=flat-square&logo=Webflow&logoColor=white&link=https://yaelbenshalom.github.io/">
@@ -33,6 +19,19 @@
   </a>
 </p>
 
+<!-- <h1 align="center">Hi There!
+  <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1> -->
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaelBenShalom&count_private=true&show_icons=true&theme=github_dark">
+  <br>
+  I'm Yael, and I'm a robotics software & mechanical engineer<br>
+  I recently graduated with a masters in robotics from Northwestern University<br>
+  My main focuses are autonomous vehicles, robotics manipulation, controls, planning, perception, and SLAM
+  <br><br>
+  Please check <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a> for more information about my projects
 </p>
+
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaelBenShalom&count_private=true&show_icons=true&theme=github_dark">
+</p> -->
