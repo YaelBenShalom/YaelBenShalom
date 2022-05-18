@@ -14,14 +14,10 @@
 <a href="https://www.linkedin.com/in/yael-benshalom/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yael-benshalom/">
   </a>
-  <a href="https://github.com/YaelBenShalom" target="_blank">
+<!--   <a href="https://github.com/YaelBenShalom" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/YaelBenShalom">
-  </a>
+  </a> -->
 </p>
-
-<!-- <h1 align="center">Hi There!
-  <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1> -->
 
 <p align="center">
   <br>
@@ -31,7 +27,3 @@
   <br><br>
   Please check <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a> for more information about my projects
 </p>
-
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaelBenShalom&count_private=true&show_icons=true&theme=github_dark">
-</p> -->
