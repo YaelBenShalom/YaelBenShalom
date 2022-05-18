@@ -25,5 +25,5 @@
   I recently graduated with a masters in robotics from Northwestern University<br>
   My main focuses are autonomous vehicles, robotics manipulation, controls, planning, perception, and SLAM
   <br><br>
-  Please check <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a> for more information about my projects
+  Check out <a href="https://yaelbenshalom.github.io/" target="_blank">my portfolio</a> for more information about my projects
 </p>
